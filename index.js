@@ -17,7 +17,7 @@ let productos = [
 
 // Ruta principal
 app.get('/', (req, res) => {
-    res.send('Bienvenido a la aplicación Express');
+    res.send('DESARROLLO DE SOLUCIONES EN LA NUBE - TAREA S4');
 });
 
 // Ruta para mostrar clientes
